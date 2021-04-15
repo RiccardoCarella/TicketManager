@@ -1,4 +1,13 @@
 # TicketManager
+Issues list view
+![image](https://user-images.githubusercontent.com/72451708/114901232-e2690500-9e14-11eb-835d-4df5716508c0.png)
+
+Users list view
+![image](https://user-images.githubusercontent.com/72451708/114901272-ec8b0380-9e14-11eb-9f61-7939ff5967a0.png)
+
+
+Edit issue view
+![image](https://user-images.githubusercontent.com/72451708/114901149-cf563500-9e14-11eb-8fec-1ac82902b294.png)
 
 Ticket manager project by a junior web developer.
 
